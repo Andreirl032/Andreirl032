@@ -23,13 +23,8 @@
     <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/c-programming.svg"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/git.svg"/> </a>
     <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/github.svg"/> </a>
+    <img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </div>
-<br />
-<br />
-
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br />
 <br />
 
