@@ -1,4 +1,4 @@
-## Hello! Welcome to my GitHub profile! <img src="https://github.com/andreirl032/andreirl032/blob/main/img/Hi.gif" width="30px">👨‍💻
+## Olá! Bem vindo ao meu Github :) <img src="https://github.com/andreirl032/andreirl032/blob/main/img/Hi.gif" width="30px">👨‍💻
 
 <a href="https://www.linkedin.com/in/andrei-ramos-lopes-55aa89268/" target="_blank"><img align="left" alt="Andrei Ramos Lopes | LinkedIn" width="22px" src="https://github.com/andreirl032/andreirl032/blob/main/img/linkedin.svg" />
 <a href="https://dev.to/andreirl032" target="_blank"><img align="left" alt="dev to andreirl032" width="22px" src="https://github.com/andreirl032/andreirl032/blob/main/img/devto.svg" /></a>
@@ -6,9 +6,9 @@
 <br />
 <br />
   
-💻 Desenvolvedor Fullstack
-📚 Graduando em Ciência da Computação pela UFMA
-✍️ Desenvolvimento Web
+💻 Desenvolvedor Fullstack<br />
+📚 Graduando em Ciência da Computação pela UFMA<br />
+✍️ Desenvolvimento Web<br />
 
 ### Some languages and tools:
 
