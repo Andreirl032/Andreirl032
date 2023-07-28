@@ -6,7 +6,7 @@
 <br />
 <br />
   
-💻 Desenvolvedor Fullstack<br />
+💻 Desenvolvedor Frontend<br />
 📚 Graduando em Ciência da Computação pela UFMA<br />
 ✍️ Desenvolvimento Web<br />
 
