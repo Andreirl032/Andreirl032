@@ -31,5 +31,5 @@
 ---
 ### Github Stats
 
-[![andreirl032's github stats](https://github-readme-stats.vercel.app/api?username=andreirl032&include_all_commits=true&count_private=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![andreirl032's github stats](https://github-readme-stats.vercel.app/api?username=andreirl032&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 [![andreirl032's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreirl032&layout=compact&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
