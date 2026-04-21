@@ -1,36 +1,61 @@
-## Olá! Bem vindo ao meu Github :) <img src="https://github.com/andreirl032/andreirl032/blob/main/img/Hi.gif" width="30px">👨‍💻
+[personalizacao.md](https://github.com/user-attachments/files/26949180/personalizacao.md)
+# Olá, eu sou [Andrei]
 
-<a href="https://www.linkedin.com/in/andrei-ramos-lopes-55aa89268/" target="_blank"><img align="left" alt="Andrei Ramos Lopes | LinkedIn" width="22px" src="https://github.com/andreirl032/andreirl032/blob/main/img/linkedin.svg" />
-<a href="https://dev.to/andreirl032" target="_blank"><img align="left" alt="dev to andreirl032" width="22px" src="https://github.com/andreirl032/andreirl032/blob/main/img/devto.svg" /></a>
+**`Desenvolvedor de Software`**
 
-<br />
-<br />
-  
-💻 Desenvolvedor Frontend<br />
-📚 Graduando em Ciência da Computação pela UFMA<br />
-✍️ Desenvolvimento Web<br />
+Estou cursando Ciência da Computação (em conclusão) pela Universidade Federal do Maranhão(UFMA) e, atualmente, estou estagiando na Secretaria Municipal de Informação e Tecnologia (SEMIT) de São Luís
 
-### Some languages and tools:
+💡 Buscando aprender mais, e aplicar desenvolvimento web e mobile para resolver problemas reais de mercado.
 
-<div>
-    <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/html5.svg" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/css3.svg" /></a>
-    <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="Javascript" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/js.svg" /></a>
-    <a href="https://reactjs.org/" target="_blank"><img align="left" alt="React.JS" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/react.svg" /></a>
-    <a href="https://nodejs.org/" target="_blank"><img align="left" alt="Node.JS" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/nodejs.svg" /></a>
-    <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/python.svg"/> </a>
-    <a href="https://www.java.com/" target="_blank"> <img align="left" alt="Java" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/java.svg"/> </a>
-    <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/c-programming.svg"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/git.svg"/> </a>
-    <a href="https://github.com/" target="_blank"> <img align="left" alt="GitHub" height="26px" src="https://github.com/andreirl032/andreirl032/blob/main/img/github.svg"/> </a>
-    <img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-</div>
-<br />
-<br />
+📊 Possuo conhecimentos em React, React Native, Next.js, TypeScript, Python, bancos de dados relacionais e não relacionais, etc.
+
+   <p align="left"> 
+    <a href="https://github.com/Andreirl032?tab=followers">
+         <img 
+         alt="followers" 
+         title="Me siga no GitHub" 
+         src="https://custom-icon-badges.demolab.com/github/followers/Andreirl032?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
+         </a>
+    <a href="https://github.com/Andreirl032?tab=repositories&sort=stargazers">
+         <img alt="total stars" 
+         title="Total de estrelas" 
+         src="https://custom-icon-badges.demolab.com/github/stars/Andreirl032?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
+    <a href="https://www.linkedin.com/in/andrei-ramos-lopes-55aa89268/"
+        target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"
+         title="Vamos fazer uma conexão!" /></a>
+   </p>
 
 ---
-### Github Stats
-<!-- Desativado devido a problemas com a API
-[![andreirl032's github stats](https://github-readme-stats.vercel.app/api?username=andreirl032&include_all_commits=true&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
--->
-[![andreirl032's top langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreirl032&layout=compact&langs_count=8&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+### 🤖 Linguagens e tecnologias
+
+<p align="left">
+  <!-- Substitua ou adicione as tecnologias que você utiliza. Ícones do devicon.dev -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" alt="Python" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" alt="HTML5" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" alt="CSS3" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" alt="Git" align="middle" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" alt="GitHub" align="middle" />
+</p>
+
+---
+
+### 📊 Estatísticas
+
+<p align="left">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Andreirl032&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    width="420"
+  />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Andreirl032&layout=compact&theme=tokyonight&locale=pt-br"
+    width="390"
+  />
+</p>
