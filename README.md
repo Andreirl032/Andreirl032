@@ -8,6 +8,14 @@ Estou cursando Ciência da Computação (em conclusão) pela Universidade Federa
 
 📊 Possuo conhecimentos em React, React Native, Next.js, TypeScript, Python, bancos de dados relacionais e não relacionais, etc.
 
+🇺🇸 ENG
+I am currently completing a degree in Computer Science at Federal University of Maranhão and am currently interning at Secretaria Municipal de Informação e Tecnologia.
+
+💡 Always looking to learn more and apply web and mobile development to solve real-world market problems.
+
+📊 I have knowledge in React, React Native, Next.js, TypeScript, Python, relational and non-relational databases, among other technologies.
+
+
    <p align="left"> 
     <a href="https://github.com/Andreirl032?tab=followers">
          <img 
