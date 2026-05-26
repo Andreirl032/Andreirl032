@@ -9,6 +9,7 @@ Estou cursando Ciência da Computação (em conclusão) pela Universidade Federa
 📊 Possuo conhecimentos em React, React Native, Next.js, TypeScript, Python, bancos de dados relacionais e não relacionais, etc.
 
 🇺🇸 ENG
+
 I am currently completing a degree in Computer Science at Federal University of Maranhão and am currently interning at the Municipal Department of Information and Technology.
 
 💡 Always looking to learn more and apply web and mobile development to solve real-world market problems.
