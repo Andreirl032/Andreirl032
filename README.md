@@ -1,19 +1,19 @@
-# Olá, eu sou o Andrei!
+# Olá, eu sou o Andrei! / Hi, I'm Andrei!
 
-**`Desenvolvedor de Software`**
+**`Desenvolvedor de Software / Software Developer`**
 
-Estou cursando Ciência da Computação (em conclusão) pela Universidade Federal do Maranhão(UFMA) e, atualmente, estou estagiando na Secretaria Municipal de Informação e Tecnologia (SEMIT) de São Luís
+Estou cursando Ciência da Computação (em conclusão) pela Universidade Federal do Maranhão(UFMA) e, atualmente, estou estagiando na Secretaria Municipal de Informação e Tecnologia (SEMIT) de São Luís.
 
 💡 Buscando aprender mais, e aplicar desenvolvimento web e mobile para resolver problemas reais de mercado.
 
 📊 Possuo conhecimentos em React, React Native, Next.js, TypeScript, Python, bancos de dados relacionais e não relacionais, etc.
 
 🇺🇸 ENG
-I am currently completing a degree in Computer Science at Federal University of Maranhão and am currently interning at Secretaria Municipal de Informação e Tecnologia.
+I am currently completing a degree in Computer Science at Federal University of Maranhão and am currently interning at the Municipal Department of Information and Technology.
 
 💡 Always looking to learn more and apply web and mobile development to solve real-world market problems.
 
-📊 I have knowledge in React, React Native, Next.js, TypeScript, Python, relational and non-relational databases, among other technologies.
+📊 I have knowledge in React, React Native, Next.js, TypeScript, Python, relational and non-relational databases, etc.
 
 
    <p align="left"> 
