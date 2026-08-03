@@ -2,19 +2,19 @@
 
 **`Desenvolvedor de Software / Software Developer`**
 
-Estou cursando Ciência da Computação (em conclusão) pela Universidade Federal do Maranhão(UFMA) e, atualmente, estou estagiando na Secretaria Municipal de Informação e Tecnologia (SEMIT) de São Luís.
+Sou bacharel em Ciência da Computação pela Universidade Federal do Maranhão(UFMA).
 
 💡 Buscando aprender mais, e aplicar desenvolvimento web e mobile para resolver problemas reais de mercado.
 
-📊 Possuo conhecimentos em React, React Native, Next.js, TypeScript, Python, bancos de dados relacionais e não relacionais, etc.
+📊 Possuo conhecimentos em React, React Native, Next.js, Node.js, TypeScript, Python, bancos de dados relacionais e não relacionais, etc.
 
 🇺🇸 ENG
 
-I am currently completing a degree in Computer Science at Federal University of Maranhão and am currently interning at the Municipal Department of Information and Technology.
+I'm a Computer Science graduate from the Federal University of Maranhão (UFMA).
 
 💡 Always looking to learn more and apply web and mobile development to solve real-world market problems.
 
-📊 I have knowledge in React, React Native, Next.js, TypeScript, Python, relational and non-relational databases, etc.
+📊 I have knowledge in React, React Native, Next.js, Node.js, TypeScript, Python, relational and non-relational databases, etc.
 
 
    <p align="left"> 
